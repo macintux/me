@@ -1,0 +1,146 @@
+                            John R. Daily
+                            jdaily@me.com
+
+Recent Job      Virtusa
+Experience      Associate Director                              05/17-Present
+
+                Assist large pharmaceutical company with deployment
+                and automation of a cloud infrastructure for mobile
+                medical applications, leveraging Python, AWS, and
+                Splunk. Consult on applications development and
+                security infrastructure.
+
+                Develop language processing engine in Python for
+                adverse event reports that integrates libraries such
+                as spaCy and SciBite to correlate drugs with events
+                and calculate time to onset.
+
+                Evaluate and develop automated robotic process
+                automation tools.
+
+
+                Basho Technologies
+                Senior Software Engineer                        07/14-05/17
+                Technical Evangelist                            01/13-07/14
+
+                Develop Riak KV and Riak TS, distributed NoSQL
+                database software with an emphasis on massive scale
+                and availability. Mentor new engineers on remote work,
+                Basho culture, Riak history and architectural
+                decisions. Develop documentation and provide support
+                for customers and open source users.
+
+                Assisted sales and marketing teams. Coordinated
+                community efforts around Basho's open source database
+                Riak. Gave talks to user groups and at conferences.
+                Acted as a communications bridge between engineering,
+                professional services, client services, and marketing.
+
+                Generated documentation and blog posts. Co-wrote/edited
+                the second edition of The Little Riak Book.
+
+                https://web.archive.org/web/20170801133203/http://basho.com/posts/author/john-daily/
+
+
+                Apparatus, Inc.
+                Solutions Architect                             08/04-01/13
+
+                Performed software development and systems
+                administration, assisted with strategic business
+                planning. Worked at a local Fortune 200 company
+                deploying a mobile device management infrastructure.
+
+                Significant development efforts included a WebSphere
+                application deployment engine and MDM reporting tool,
+                both written in Perl.
+
+
+                Progeny Linux Systems, Inc.
+                Systems Programmer                              12/00-06/01
+                Consultant                                      06/01-02/02
+                Projects Manager                                02/02-08/02
+                Director of Technology                          08/02-07/04
+
+                Served in a wide variety of roles for a technology
+                startup.  Primarily responsible for technical
+                architecture with other duties including project
+                management and sales.
+
+                In other roles, duties included managing security updates
+                for commercial products, designing and building an XML
+                infrastructure, Linux kernel programming, web development,
+                and technical writing.
+
+
+                Eli Lilly and Company
+                Systems Analyst                                  6/99-12/00
+
+                Initially served as firewall, systems, and network
+                administrator in the Internet infrastructure team, with an
+                emphasis on Solaris administration. Moved into a strategic
+                role, serving as an unofficial architect within the
+                broader enterprise infrastructure division and as a
+                consultant to internal customers in several business
+                areas, including e-commerce.
+
+                Significant accomplishments include the establishment of
+                the first company-wide LDAP service, development of the
+                Internet infrastructure team's first standardized web
+                platform including Cold Fusion, WebSphere, and iPlanet,
+                and design of a scalable, secure, and robust web hosting
+                infrastructure to serve the entire company.
+
+
+                Software Synergy, Inc.
+                Consulting Analyst                               4/98-6/99
+
+                Contracted with Eli Lilly, a Fortune 200 pharmaceuticals
+                firm, as systems and network administrator. See above for
+                further details.
+
+
+                BBN/GTE Internetworking
+                Software Engineer/Systems Administrator          3/97-3/98
+
+                Besides general administration of Solaris and Windows
+                computers, projects included NetBSD kernel programming to
+                enhance IP layer security, evaluation of virtual private
+                network products, integration testing of intrusion
+                detection software, and support of certificate management
+                system development.
+
+
+                Indiana Interactive
+                System Administrator                             9/95-3/97
+
+                In charge of expansion and maintenance of very young,
+                fast-growing network.  Responsibilities included Solaris,
+                NT, firewall, and general TCP/IP administration, network
+                application development, and both internal and external
+                technical support.
+
+                Accomplishments included installation and maintenance of
+                Apache and Netscape web servers, an anonymous FTP server,
+                cross-platform scheduling software, program development
+                tools such as gcc and Perl, majordomo, and sendmail v8, as
+                well as the creation of several C and Java-based servers
+                to handle file and transaction transfers across networks
+                and to maintain customer password consistency in multiple
+                files across several machines.
+
+
+Related         C, Perl, Python, and Erlang development
+Skills          System administration in mixed UNIX/Windows environments
+                Strong networking skills
+                NoSQL and relational databases
+                Several years in team management and technical lead roles
+
+
+Other           Copy editing, public speaking, photography
+Skills
+
+
+Education       Indiana University-Purdue University-Indianapolis
+                Major:      Computer and Information Science (Senior)
+                Completion: Sometime after the sun reaches brown dwarf
+                            status
